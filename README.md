@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi! I'm Joseph
 
-<!--
-**alljustafavor/alljustafavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer in training at BloomTech Institute. I'm currently learning data structures and algorithms (DSA) and React.
 
-Here are some ideas to get you started:
+Some of my favorite projects so far have been the NASA Astronomy Picture of the Day (APOD) and a mockup version of UberEats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **NASA APOD** was my first time building something with the help of an API. I enjoyed learning how to make HTTP requests and parse JSON data.
+* **UberEats** was a more challenging project, but it was also more rewarding. I had to use everything I had learned about React to build a functional and realistic mockup.
+
+I'm still learning, but I'm passionate about software development. I'm always looking for new challenges and opportunities to learn.
+
+**Skills**
+
+* Programming languages: JavaScript, HTML, CSS
+* Frameworks: React
+* Databases: H
+* APIs: Axios
+* Tools: Git, GitHub
+
+**Thanks for reading!**
