@@ -13,7 +13,6 @@ I'm still learning, but I'm passionate about software development. I'm always lo
 
 * Programming languages: JavaScript, HTML, CSS
 * Frameworks: React
-* Databases: H
 * APIs: Axios
 * Tools: Git, GitHub
 
