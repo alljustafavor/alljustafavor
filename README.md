@@ -12,7 +12,7 @@ I'm still learning, but I'm passionate about software development. I'm always lo
 **Skills**
 
 * Programming languages: JavaScript, HTML, CSS
-* Frameworks: React
+* Frameworks: React, Redux
 * Tools: Git, GitHub
 
 **Thanks for reading!**
