@@ -1,6 +1,6 @@
 # Hi! I'm Joseph
 
-I'm a software engineer in training at BloomTech Institute. I'm currently Redux and React.
+I'm a software engineer in training at BloomTech Institute. I'm currently learning Redux and React.
 
 Some of my favorite projects so far have been the NASA Astronomy Picture of the Day (APOD) and a mockup version of UberEats.
 
