@@ -17,7 +17,8 @@ I'm still learning, but I'm passionate about software development. I'm always lo
 * Tools: Git, GitHub
 
 🎮️ When I'm AFK  
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Steam](https://steamcommunity.com/id/AllJustAFavor)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 **Thanks for reading!**
