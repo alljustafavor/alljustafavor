@@ -17,7 +17,7 @@ I'm still learning, but I'm passionate about software development. I'm always lo
 * Tools: Git, GitHub
 
 🎮️ When I'm AFK 
-![Steam](https://steamcommunity.com/id/AllJustAFavor)https://steamcommunity.com/id/AllJustAFavor)
+![Steam](https://steamcommunity.com/id/AllJustAFavor)
 
 
 **Thanks for reading!**
