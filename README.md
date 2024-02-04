@@ -1,24 +1,25 @@
-# Hi! I'm Joseph
 
-I'm a software engineer in training at BloomTech Institute. I'm currently learning Redux and React.
+# Hi there 👋, I'm [Your Name]
+## My stack
 
-Some of my favorite projects so far have been the NASA Astronomy Picture of the Day (APOD) ,a frontend mockup version of UberEats and lastly Todo_CRUD.
+## I’m currently learning
 
-* **NASA APOD**: was my first time building something with the help of an API. I enjoyed learning how to make HTTP requests and parse JSON data.
-* **BloomEats**: was a more challenging project, but it was also more rewarding. I had to use everything I had learned about React to build a functional and realistic mockup.
-* **Todo CRUD**: was my first project where I implemented Create, Read, Update, and Delete (CRUD) operations. It was a significant learning experience that helped me understand the fundamental operations of any backend service.
+## Ask me about 
 
-I'm still learning, but I'm passionate about software development. I'm always looking for new challenges and opportunities to learn.
+## How to reach me 
 
-**Skills**
-
-* Programming languages: JavaScript, HTML, CSS
-* Frameworks: React, Redux
-* Tools: Git, GitHub
-
-🎮️ When I'm AFK  
-![Steam](https://steamcommunity.com/id/AllJustAFavor)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+## When I'm AFK
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-**Thanks for reading!**
+##  Fun fact
+
+
